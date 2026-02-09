@@ -1,0 +1,19 @@
+NAME                                    REFERENCE                                          TARGETS                        MINPODS   MAXPODS   REPLICAS   AGE
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 3%/10%, memory: 26%/80%   1         10        1          5m6s
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 8%/10%, memory: 26%/80%   1         10        1          6m46s
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 246%/10%, memory: 26%/80%   1         10        1          7m47s
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 246%/10%, memory: 26%/80%   1         10        4          8m2s
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 246%/10%, memory: 26%/80%   1         10        8          8m17s
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 246%/10%, memory: 26%/80%   1         10        10         8m32s
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 3%/10%, memory: 25%/80%     1         10        10         8m47s
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 2%/10%, memory: 25%/80%     1         10        10         9m47s
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 2%/10%, memory: 25%/80%     1         10        10         10m
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 2%/10%, memory: 26%/80%     1         10        10         11m
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 2%/10%, memory: 26%/80%     1         10        10         12m
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 2%/10%, memory: 26%/80%     1         10        10         13m
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 2%/10%, memory: 26%/80%     1         10        4          13m
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 2%/10%, memory: 26%/80%     1         10        4          18m
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 2%/10%, memory: 26%/80%     1         10        2          18m
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 3%/10%, memory: 26%/80%     1         10        2          22m
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 3%/10%, memory: 26%/80%     1         10        2          23m
+my-release-fastapi-gitops-starter       Deployment/my-release-fastapi-gitops-starter       cpu: 3%/10%, memory: 26%/80%     1         10        1          23m
